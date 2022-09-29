@@ -1,6 +1,6 @@
 ![here we are](https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif)
 
-# Toll fee calculator 1.0
+# Toll fee calculator 1.0.1-beta
 A calculator for vehicle toll fees.
 
 * Make sure you read these instructions carefully
